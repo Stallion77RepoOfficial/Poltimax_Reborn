@@ -1,12 +1,14 @@
+import chess
+
 # main imports
-import board
-import evaluate
-import search
+import board as brd
+import evaluate as eval
+import search as sch
 
 # includes
-import include.options as options
-import include.pieces as pieces
-import include.time as time
+import include.options as opt
+import include.pieces as pcs
+import include.time as tm
 import include.uci as uci
 from include.time import time
 
