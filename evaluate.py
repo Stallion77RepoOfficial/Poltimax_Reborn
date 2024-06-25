@@ -1,2 +1,0 @@
-import chess
-import numpy
